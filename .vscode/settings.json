@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "amazon-mock",
+            "connectString": "postgres://hbjnemwl:sswHELi0j7wfJihbXrHyfJBB0Punf89e@fanny.db.elephantsql.com/hbjnemwl"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "movie theater",
+            "connectString": "postgres://ftzhrprz:7qKmgMY1JX_p5Oe5cKGVWieCOcBbdf61@fanny.db.elephantsql.com/ftzhrprz"
+        }
+    ]
+}
